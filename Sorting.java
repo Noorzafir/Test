@@ -95,4 +95,5 @@ public class Sorting
 		InsertionSort(arr);
 		
 	}
-}
+}//part 2
+
